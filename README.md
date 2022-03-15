@@ -6,6 +6,7 @@ Technology  | Usage
 ------------- | -------------
 React  | Interface
 Redux  | Database
+React-player | video
 Firebase  | Hosting & Authentication
 
 
